@@ -1,0 +1,19 @@
+.buscar{
+    width: 50%;
+}
+
+.mr-3{
+    margin-right: 10px;
+}
+
+.ml-3{
+    margin-left: 10px;
+}
+
+.buscarlist{
+    display: flex;
+}
+
+.w50{
+    width: 50%;
+}

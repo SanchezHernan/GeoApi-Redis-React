@@ -1,0 +1,33 @@
+.agregar{
+    width: 70%;
+    min-width: 550px;
+}
+
+.w100{
+    width: 100%;
+}
+
+.row-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.column-content{
+    display: flex;
+    flex-direction: column;
+}
+
+.cont2{
+    width: 40%;
+}
+
+.cont3{
+    width: 60%;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 10px;
+}
